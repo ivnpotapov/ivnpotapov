@@ -13,10 +13,10 @@ Please contact me via telegram or email.
 - [E-mail: iojikov@mail.ru](mailto:iojikov@mail.ru)
 
 ### Languages:
-Russian - native speaker.
-English - A2.
+- Russian - native speaker.
+- English - A2.
 
-###🔥 Codewars
+### 🔥 Codewars  
 [![codewars](https://www.codewars.com/users/ivnpotapov/badges/large)](https://www.codewars.com/users/ivnpotapov)
 
 

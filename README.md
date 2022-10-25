@@ -9,7 +9,7 @@
 
 ### 💬 Contact information
 - [Telegram: @iojikov](https://t.me/iojikov) 
-- [E-mail: iojikov@mail.ru](mailto:iojikov@mail.ru)
+- [E-mail: ivn.potapov@gmail.com](mailto:ivn.potapov@gmail.com)
 
 ### 🤝 Languages:
 - Russian - native speaker.

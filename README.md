@@ -17,7 +17,6 @@
 - English - A2.
 
 ### 🏆 Training 
-![LeetCode Stats](https://leetcode.card.workers.dev/ivnpotapov?theme=auto&font=source_code_pro&extension=null)
 [![codewars](https://www.codewars.com/users/ivnpotapov/badges/large)](https://www.codewars.com/users/ivnpotapov)
 
 ### О себе

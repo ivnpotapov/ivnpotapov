@@ -1,4 +1,4 @@
-## Junior Frontend Developer
+## Frontend Developer
 
 ### 🔧 Skills
 ![Skills](https://skillicons.dev/icons?i=js,ts,react,redux,html,css,sass,github,vscode,ps,figma&theme=dark&perline=7)
@@ -16,7 +16,8 @@
 - Russian - native speaker.
 - English - A2.
 
-### 🏆 Codewars  
+### 🏆 Training 
+![LeetCode Stats](https://leetcode.card.workers.dev/ivnpotapov?theme=auto&font=source_code_pro&extension=null)
 [![codewars](https://www.codewars.com/users/ivnpotapov/badges/large)](https://www.codewars.com/users/ivnpotapov)
 
 ### О себе

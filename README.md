@@ -18,6 +18,7 @@
 
 ### 🏆 Training 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ivnpotapov?theme=light&font=Scope%20One)
+
 [![codewars](https://www.codewars.com/users/ivnpotapov/badges/large)](https://www.codewars.com/users/ivnpotapov)
 
 ### О себе

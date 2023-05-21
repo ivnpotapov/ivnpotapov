@@ -13,8 +13,8 @@
 - [E-mail: ivn.potapov@gmail.com](mailto:ivn.potapov@gmail.com)
 
 ### 🤝 Languages:
-- Russian - native speaker.
-- English - A2.
+- Russian - native speaker
+- English - B1
 
 ### 🏆 Training 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ivnpotapov?theme=light&font=Scope%20One)
